@@ -4,22 +4,117 @@ title:  "Members"
 date:   2018-07-05 15:17:01 +0900
 categories: jekyll update
 ---
-n your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Professor
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+김기형 (Kim Ki-hyung)
 
-Jekyll also offers powerful support for code snippets:
+Office : Industry-Univ. Cooperation Building 516
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Phone : 031-219-1892
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+E-mail : kkim86@ajou.ac.kr
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
+
+
+
+Ph.D Course
+
+
+황동엽 (Hwang Dongyeop)
+
+Office : Industry-Univ. Cooperation Building 532
+
+Phone : 010-9969-8331 / 031-219-1892
+
+E-mail : bc8c@naver.com
+
+
+
+
+
+신운섭 (Shin WoonSeob)
+
+Office : Industry-Univ. Cooperation Building 533
+
+E-mail : gcloud79@gmail.com
+
+
+
+
+
+오석호 (Oh Sukho)
+
+Office : Industry-Univ. Cooperation Building 533
+
+E-mail : tadybear@ajou.ac.kr
+
+
+
+
+
+김영준 (Kim Yungjun)
+
+Office : Industry-Univ. Cooperation Building 533
+
+E-mail : junnzr@gmail.com
+
+
+
+
+
+사드 (SAAD MUHAMMAD)
+
+Office : Industry-Univ. Cooperation Building 533
+E-mail : muhammadsaad11@gmail.com
+
+
+
+Master Course
+
+
+이성빈 (Lee Seong-bin)
+
+Office : Industry-Univ. Cooperation Building 532
+
+E-mail : dav2122@ajou.ac.kr
+
+
+프랭크 (Abdukodirov Farkhod)
+Office : Industry-Univ. Cooperation Building 533
+E-mail : abdukodirovfarkhod@gmail.com
+
+압둘라 (Abdurahmanov Sherzodbek)
+Office : Industry-Univ. Cooperation Building 533
+E-mail : sherzod.mukumovich@gmail.com
+
+압둘라 (abdullah alsharyufi)
+Office : Industry-Univ. Cooperation Building 533
+E-mail : abosharf999@gmail.com
+
+조재식 (Jo Jaesik)
+Office : Industry-Univ. Cooperation Building 522
+E-mail : joje1283@ajou.ac.kr
+
+정예나 (Jung Yena)
+Office : Industry-Univ. Cooperation Building 522
+E-mail : jyn@ajou.ac.kr
+
+박우석 (Park Wooseok)
+Office : Industry-Univ. Cooperation Building 522
+Email : pwsuk9004@ajou.ac.kr
+
+Intern
+
+
+이준호 (Lee Junho)
+
+E-mail : junho1194@ajou.ac.kr
+
+
+
+최정용 (Choi Jungyong)
+
+E-mail : comrry@ajou.ac.kr
+
+
